@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "more-f3-entity",
+  "version": "${version}",
+  "name": "more-f3-entity",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/more-f3-entity/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "xyz.bobkinn.moreF3Entity.client.MoreF3EntityClient"
+    ]
+  },
+  "mixins": [
+    "more-f3-entity.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "betterf3": "*"
+  }
+}

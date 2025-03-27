@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "xyz.bobkinn.moreF3Entity.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "bf3.MixinTargetModule"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

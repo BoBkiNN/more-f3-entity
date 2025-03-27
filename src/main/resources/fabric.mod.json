@@ -3,11 +3,12 @@
   "id": "f3-entity-ids",
   "version": "${version}",
   "name": "F3 Entity IDs",
-  "description": "",
+  "description": "Adds additional line to right side for debug menu from BetterF3 mod.\nIt contains entity id and entity UUID separated by `/`",
   "authors": ["BoBkiNN"],
   "contact": {
     "homepage": "https://modrinth.com/mod/f3-entity-ids",
-    "source": "https://github.com/BoBkiNN/more-f3-entity"
+    "sources": "https://github.com/BoBkiNN/more-f3-entity",
+    "issues": "https://github.com/BoBkiNN/more-f3-entity/issues"
   },
   "license": "MIT",
   "icon": "assets/f3-entity-ids/icon.png",

@@ -3,7 +3,7 @@
   "id": "f3-entity-ids",
   "version": "${version}",
   "name": "F3 Entity IDs",
-  "description": "Adds additional line to right side for debug menu from BetterF3 mod.\nIt contains entity id and entity UUID separated by `/`",
+  "description": "Adds additional line to right side in debug menu from BetterF3 mod.\nIt contains entity id and entity UUID separated by `/`",
   "authors": ["BoBkiNN"],
   "contact": {
     "homepage": "https://modrinth.com/mod/f3-entity-ids",

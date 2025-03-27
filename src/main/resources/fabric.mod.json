@@ -1,13 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "more-f3-entity",
+  "id": "f3-entity-ids",
   "version": "${version}",
-  "name": "more-f3-entity",
+  "name": "F3 Entity IDs",
   "description": "",
-  "authors": [],
-  "contact": {},
+  "authors": ["BoBkiNN"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/f3-entity-ids",
+    "source": "https://github.com/BoBkiNN/more-f3-entity"
+  },
   "license": "MIT",
-  "icon": "assets/more-f3-entity/icon.png",
+  "icon": "assets/f3-entity-ids/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
@@ -15,7 +18,7 @@
     ]
   },
   "mixins": [
-    "more-f3-entity.mixins.json"
+    "f3-entity-ids.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
